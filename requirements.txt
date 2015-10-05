@@ -1,0 +1,4 @@
+backports.ssl-match-hostname==3.4.0.2
+certifi==2015.9.6.2
+Jinja2==2.8
+tornado==4.2.1
