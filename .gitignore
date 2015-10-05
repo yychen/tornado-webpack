@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+static/
+node_modules/
+webpack-assets.json
